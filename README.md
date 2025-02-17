@@ -1,1 +1,1 @@
-# Pico_LCC_Firware
+# Pico_LCC_Firmware
